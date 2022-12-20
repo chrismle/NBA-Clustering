@@ -1,4 +1,4 @@
- nba_clustering
+ NBA Clustering
 ==============================
 
 Using the 2021-2022 NBA regular season data, I utilize unsupervised machine learning models to define new clusters to classify NBA players into.
