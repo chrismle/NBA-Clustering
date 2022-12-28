@@ -1,7 +1,7 @@
  NBA Clustering
 ==============================
 
-Using the 2021-2022 NBA regular season data, I utilize unsupervised machine learning models to define new clusters that represent NBA players by how they truly statistically contribute to their team on the floor better than traditional positions. 
+Using the 2021-2022 NBA regular season data, I utilize unsupervised machine learning models to define new archetypes that represent NBA players by how they truly statistically contribute to their team on the floor better than traditional positions. 
 
 Project Organization
 ------------
