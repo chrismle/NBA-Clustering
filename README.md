@@ -30,8 +30,9 @@ Project Organization
     │    └── 4.0-cml-nba-modeling.ipynb
     │    
     ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │    ├── NBA_Clustering_Report
-    │    └── NBA_Clustering_Presentation
+    │    ├── NBA_Clustering_Report.pdf
+    │    ├── NBA_Clustering_SlideDeck.pdf
+    │    └── NBA_Clustering_Presentation.pptx
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
     │                         generated with `pip freeze > requirements.txt`
